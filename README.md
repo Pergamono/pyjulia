@@ -12,7 +12,7 @@ Experimenting with developing a better interface to [Julia language](https://jul
 
 Quick usage
 -----------
-
+  
 ```console
 $ python3 -m pip install julia    # install PyJulia
 ...                               # you may need `--user` after `install`
