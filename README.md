@@ -16,7 +16,7 @@ Quick usage
 ```console
 $ python3 -m pip install julia    # install PyJulia
 ...                               # you may need `--user` after `install`
-
+ 
 $ python3
 >>> import julia
 >>> julia.install()               # install PyCall.jl etc.
